@@ -1,0 +1,19 @@
+Parser Program: Reads and processes data, enhances dictionary, and allows manual editing.
+
+Menu:
+1. Read and Create Dictionary
+2. Dump Dictionary to File
+3. Print Data Sets Using Dictionary
+4. Allow Manual Editing and Reparse Dictionary
+5. Exit
+Enter your choice: 2
+Enter file name to dump the dictionary (e.g., dictionary.json): symptom_dictionary.json
+Dictionary successfully saved to symptom_dictionary.json
+
+Menu:
+1. Read and Create Dictionary
+2. Dump Dictionary to File
+3. Print Data Sets Using Dictionary
+4. Allow Manual Editing and Reparse Dictionary
+5. Exit
+Enter your choice: 
